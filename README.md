@@ -1,15 +1,20 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=190&section=header&text=Jogi%20Gana%20Sai%20Surya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20engineer%20in%20the%20making&descSize=18&descAlignY=60" alt="Jogi Gana Sai Surya banner" />
-<img src="assets/photo.jpg" alt="Jogi Gana Sai Surya" width="140" style="border-radius:50%" />
-I build LLM applications, RAG systems and automation, and ship them as working products.
-Computer Science student in Hyderabad · Open to internships and full-time roles
-![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)
-![Resume](https://img.shields.io/badge/Resume-PDF-444444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=190&section=header&text=Jogi%20Gana%20Sai%20Surya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20engineer%20in%20the%20making&descSize=18&descAlignY=60" alt="Jogi Gana Sai Surya banner" width="100%" />
+<br />
+<img src="assets/photo.jpg" alt="Jogi Gana Sai Surya" width="140" height="140" />
+<h3>I build LLM applications, RAG systems and automation, and ship them as working products.</h3>
+<p>Computer Science student in Hyderabad &middot; Open to internships and full-time roles</p>
+<p>
+<a href="https://gana9989.github.io/Portfolio2/"><img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Portfolio" /></a>
+<a href="assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-444444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+<a href="https://www.linkedin.com/in/jogi-gana-sai-surya-b6bb36315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jogigana18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+<p>
+<a href="https://leetcode.com/u/Gana_Sai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.kaggle.com/ganasaisurya"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://github.com/Gana9989"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 </div>
 ---
 At a glance
